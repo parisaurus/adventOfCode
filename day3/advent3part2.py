@@ -14,6 +14,7 @@ for iterations in lista:
     count = 0
     x = 0   
 
+
 x, aux, count = 0, 0, 0
 for aux in map:
     #print(len(aux))

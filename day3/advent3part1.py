@@ -1,5 +1,6 @@
 file = open("input.txt", "r")
 
+
 map = file.read().split("\n")
 x, count = 0, 0
 for aux in map:
